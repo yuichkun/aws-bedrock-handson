@@ -1,6 +1,4 @@
 {
-  "cSpell.words": [
-    "boto"
-  ],
+  "cSpell.words": ["boto", "streamlit"],
   "editor.formatOnSave": true
 }
