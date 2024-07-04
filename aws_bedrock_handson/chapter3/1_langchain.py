@@ -1,5 +1,8 @@
+from langchain.globals import set_debug
 from langchain_aws import ChatBedrock
 from langchain_core.messages import HumanMessage, SystemMessage
+
+set_debug(True)
 
 chat = ChatBedrock(
     model_id="anthropic.claude-3-5-sonnet-20240620-v1:0",
