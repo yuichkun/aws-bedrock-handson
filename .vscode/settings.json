@@ -1,5 +1,6 @@
 {
   "cSpell.words": [
     "boto"
-  ]
+  ],
+  "editor.formatOnSave": true
 }
