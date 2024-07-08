@@ -1,4 +1,7 @@
 {
   "cSpell.words": ["boto", "streamlit"],
-  "editor.formatOnSave": true
+  "editor.formatOnSave": true,
+  "editor.codeActionsOnSave": {
+    "source.organizeImports": "always"
+  }
 }
