@@ -1,5 +1,11 @@
 {
-  "cSpell.words": ["boto", "streamlit"],
+  "cSpell.words": [
+    "boto",
+    "convo",
+    "duckduckgo",
+    "hwchase",
+    "streamlit"
+  ],
   "editor.formatOnSave": true,
   "editor.codeActionsOnSave": {
     "source.organizeImports": "always"
